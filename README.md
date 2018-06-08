@@ -1,1 +1,2 @@
-# GaussianBernoulliMixtureModel
+# Gaussian Bernoulli Mixture Model
+
